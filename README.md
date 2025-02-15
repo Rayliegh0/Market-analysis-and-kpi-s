@@ -25,11 +25,7 @@ This project involves comprehensive data analysis on an e-commerce dataset to un
   - [4. Payment Behavior](#4-payment-behavior)
   - [5. Customer Satisfaction Analysis](#5-customer-satisfaction-analysis)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Results and Insights](#results-and-insights)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
